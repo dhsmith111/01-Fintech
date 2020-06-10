@@ -9,9 +9,9 @@
 * Who are the founders of the company? **John Peurifoy, Kevin March, and Van Phu**
 
 * How did the idea for the company (or project) come about? 
-    **The founders recognized a liquidity problem with trading many cryptocurrency and a demand for an accessible platform for exchanging cryptocurrencies at stable prices.** (add citation [here](https://www.forbes.com/sites/frederickdaso/2020/04/13/floating-point-group-an-mit-crypto-fintech-startup-modernizes-digital-currency-trading/#149d6eca6740))
+    **The founders recognized a liquidity problem with trading many cryptocurrencies and a demand for an accessible platform for exchanging cryptocurrencies at stable prices.** (add citation [here](https://www.forbes.com/sites/frederickdaso/2020/04/13/floating-point-group-an-mit-crypto-fintech-startup-modernizes-digital-currency-trading/#149d6eca6740))
 
-* How is the company funded? How much funding have they received?  **FPG is a funded by tech VCs, financial institutions, and AngelList's Naval Ravikant**(add cittion [here](https://floating-point-group.breezy.hr/?))
+* How is the company funded? How much funding have they received?  **FPG is a funded by tech VCs, financial institutions, and Naval Ravikant, founder and CEO of Angellist.** (add citation [here](https://floating-point-group.breezy.hr/?))
 
 
 ## Business Activities:
