@@ -4,19 +4,21 @@
 
 * Name of company: **Floating Point Group**
 
-* When was the company incorporated? **2019**
+* When was the company incorporated? **2018**
 
 * Who are the founders of the company? **John Peurifoy, Kevin March, and Van Phu**
 
 * How did the idea for the company (or project) come about? 
-    **The founders recognized a liquidity problem with trading many cryptocurrencies and a demand for an accessible platform for exchanging cryptocurrencies at stable prices.** (add citation [here](https://www.forbes.com/sites/frederickdaso/2020/04/13/floating-point-group-an-mit-crypto-fintech-startup-modernizes-digital-currency-trading/#149d6eca6740))
+    **The students-turned-founders, while working to create a hedge fund from their dorm rooms at MIT, learned the crypto space and recognized that it had real opportunities. After being accepted into the MIT summer accelerator program, they refined what would be the real world business problem they aimed to solve: the need for crypto trading efficiency through smart order routing (SOR) in an aggregated platform.** (add citation [here](https://venturefizz.com/stories/nyc/floating-point-group-profile))
 
-* How is the company funded? How much funding have they received?  **FPG is a funded by tech VCs, financial institutions, and Naval Ravikant, founder and CEO of Angellist.** (add citation [here](https://floating-point-group.breezy.hr/?))
+* How is the company funded? How much funding have they received?  **FPG is a funded by tech VCs General Catalyst and First Round Capital, other financial institutions, and Naval Ravikant, the founder and CEO of Angellist.  Their last seed funding was 2M USD.** (add citation [here](https://floating-point-group.breezy.hr/?))
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+**The MIT-student founders saw that cryptocurrency trading markets are in their infancy, relatively speaking, but would ultimately need to model after other types of assets that came before them.  Specifically, they recognized a liquidity problem with trading many cryptocurrencies and a demand for an aggregated, accessible platform for exchanging cryptocurrencies at stable prices.** (add citation [here](https://www.forbes.com/sites/frederickdaso/2020/04/13/floating-point-group-an-mit-crypto-fintech-startup-modernizes-digital-currency-trading/#149d6eca6740))
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
