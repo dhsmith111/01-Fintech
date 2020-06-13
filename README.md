@@ -1,4 +1,4 @@
-# TITLE
+# Floating Point Group : FinTech Case Study
 
 ## Overview and Origin
 
@@ -9,9 +9,10 @@
 * Who are the founders of the company? **John Peurifoy, Kevin March, and Van Phu**
 
 * How did the idea for the company (or project) come about? 
-    **The students-turned-founders, while working to create a hedge fund from their dorm rooms at MIT, learned the crypto space and recognized that it had real opportunities. After being accepted into the MIT summer accelerator program, they refined what would be the real world business problem they aimed to solve: the need for crypto trading efficiency through smart order routing (SOR) in an aggregated platform.** (add citation [here](https://venturefizz.com/stories/nyc/floating-point-group-profile))
+**The students-turned-founders, while working to create a hedge fund from their dorm rooms at MIT, learned the crypto space and recognized that it had real opportunities. After being accepted into the MIT summer accelerator program, they refined what would be the real world business problem they aimed to solve: the need for crypto trading efficiency through smart order routing (SOR) in an aggregated platform.** (add citation [here](https://venturefizz.com/stories/nyc/floating-point-group-profile))
 
-* How is the company funded? How much funding have they received?  **FPG is a funded by tech VCs General Catalyst and First Round Capital, other financial institutions, and Naval Ravikant, the founder and CEO of Angellist.  Their last seed funding was 2M USD.** (add citation [here](https://floating-point-group.breezy.hr/?))
+* How is the company funded? How much funding have they received?  
+**FPG is a funded by tech VCs General Catalyst and First Round Capital, other financial institutions, and Naval Ravikant, the founder and CEO of Angellist.  Their last seed funding was 2M USD.** (add citation [here](https://floating-point-group.breezy.hr/?))
 
 
 ## Business Activities:
@@ -21,6 +22,7 @@
 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+**FPG's intended customers are crypto traders, whether buying and selling these currencies directly or through a market exchange.  The market size of crypto currencies in relation to glabal traditional currencies fluctates and can be difficult to calculate. However, two widely traded cryptocurrencies include Bitcoin and Ethereum with reported market caps at \$174,376,524,338 and \$26,560,510,055, respectively, at the time of this reserach.** (add citation [here](https://coinmarketcap.com/))
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
