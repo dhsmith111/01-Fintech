@@ -7,6 +7,7 @@
 * When was the company incorporated? **2018**
 
 * Who are the founders of the company? **John Peurifoy, Kevin March, and Van Phu**
+![](./images/FPG_founders_960x0.jpg){ width=20% }
 
 * How did the idea for the company (or project) come about? 
 **The students-turned-cofounders, while working to create a hedge fund from their dorm rooms at MIT, learned the crypto space and recognized that it had real opportunities. After being accepted into the MIT summer accelerator program, they refined what would be the real world business problem they aimed to solve: the need for crypto trading efficiency through smart order routing (SOR) in an aggregated platform.** (add citation [here](https://venturefizz.com/stories/nyc/floating-point-group-profile))
