@@ -35,9 +35,11 @@
 
 * What domain of the financial industry is the company in? **Floating Point Group is intrenched in the cyrpto currency FinTech domain. More specifically, they impact the crypto currency asset trading platform aspects of the domain.**
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?  **The crypto currency domain as a whole has exploded into public awareness over the last 5-10 years.  This domain represents the advent and rapid growth of a new class of asset based on distributed and immutable digital transactions. It's continued existence is economically insentivised, via consensus protocols that continue to mature in more sustainable ways. Specific to the exchange trading sub-domain of crypto currency, numerous crypto trading exchanges exist and**
+* What have been the major trends and innovations of this domain over the last 5-10 years?  **The crypto currency domain as a whole has exploded into public awareness over the last 5-10 years.  This domain represents the advent and rapid growth of a new class of asset based on distributed and immutable digital transactions in a blockchain. It's continued existence is economically incentivised via consensus protocols that are maturing in increasingly sustainable ways. The evolution to include smart contracts provides transparency and eliminates time and costs related to mistrust between transacting entities. Specific to the exchange trading sub-domain of crypto currency, numerous crypto trading exchanges are available and continue to expand the centralized market places for trading these assets.**
 
-* What are the other major companies in this domain?
+* What are the other major companies in this domain? 
+**Specific to the sub-domain related to trading of crypto currencies, the major exchanges include Binance, Bittrex, Coinbase, HitBTC, Gemini, and Poloniex. These groups represent relative high daily trading volumes and have established base of customers.**
+**In the more fledgling arena of crypto currency smart order routing, companies in the space include Mainbloq, CoinRoutes, LCX, Bitsian, and Floating Point Group.**
 
 
 ## Results
