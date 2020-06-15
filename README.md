@@ -79,7 +79,7 @@
 
 * Why do you think that offering this product or service would benefit the company?  
 
-**Extending beyond providing unified data, API and SOR into a user interface would put an immediately usable tool in the hands of customers. Dashboards for liqudity and other analytics could be offered and would provide built-in "canned" visualization of data. This would enhance the value already provided.**  
+  **Extending beyond providing unified data, API and SOR into a user interface would put an immediately usable tool in the hands of customers. Dashboards for liqudity and other analytics could be offered and would provide built-in "canned" visualization of data. This would enhance the value already provided.**  
 
 * What technologies would this additional product or service utilize?  
 
