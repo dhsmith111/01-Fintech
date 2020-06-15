@@ -30,13 +30,13 @@
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)  
 
-  **FPG's cofounders were able to learn and develop their business model and intellectual property as both entrepreneurs and students at MIT.  After indepth research campaigns and hundreds of focused industry interviews, FPG pivoted from their initial product approach in an attempt to have a more competitive stance. Initially, the extent of their intent was providing a centralized trading platform overlay using smart order routing. However, their competition included internal development groups within hedge funds developing customized applications in order to have API drivin connectivity with various global crypto exchanges. With the goal of providing the best product in a competitive landscape, they needed differentiation. Their refined focus became "creating software facilitating the building of systems traders use to securely and effectively execute crypto trades."**  
+  **FPG's cofounders were able to learn and develop their business model and intellectual property as both entrepreneurs and students at MIT.  After indepth research campaigns and hundreds of focused industry interviews, FPG pivoted from their initial product approach in an attempt to have a more competitive stance. Initially, the extent of their intent was providing a centralized trading platform overlay using smart order routing. However, their competition included internal development groups within hedge funds developing customized applications in order to have API driven connectivity with various global crypto exchanges. With the goal of providing the best product in a competitive landscape, they needed differentiation. Their refined focus became "creating software facilitating the building of systems traders use to securely and effectively execute crypto trades."**  
 
   **This refocused FPG towards advanced solutions their would-be clients were previously trying to create with internal customized development work.  It makes the would-be competition into potential customers by providing a focused and developed "best solution" to their problem with inconsitent crypto trading environments.**  
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)  
 
-  **FPG uses Amazon cloud solutions for their infrastructure.  AWS ECS, as a scalable containerized compute platform, is used for ingestion from webapi data streams of historical and realtime market data. S3 is used for object-based storage of ingested data. Athena provides SQL based queryies against S3 stored data in a serverless, highly scalable manner. AWS Lamda automates the compute layer to run FPGs custom event driven application code, and the Data Exchange API manages communication between systems through provider/subscriber-based interaction. This underlying AWS technology is used to collect and distribute FPGs high resolution crypto data. The linked diagram below, from an FPG blow post, illustrates the data ingestion process and related AWS technologies.**  
+  **FPG uses Amazon cloud solutions for their infrastructure.  AWS ECS, as a scalable containerized compute platform, is used for ingestion from webapi data streams of historical and realtime market data. S3 is used for object-based storage of ingested data. Athena provides SQL based queryies against S3 stored data in a serverless, highly scalable manner. AWS Lamda automates the compute layer to run FPGs custom event driven application code, and the Data Exchange API manages communication between systems through provider/subscriber-based interaction. This underlying AWS technology is used to collect and distribute FPGs high resolution crypto data. The linked diagram below, from an FPG blog post, illustrates the data ingestion process and related AWS technologies.**  
 
   ![](https://miro.medium.com/max/1400/0*w8-puTDSGRan86ZG.png) 
 
@@ -46,7 +46,7 @@
 
 * What domain of the financial industry is the company in?  
 
-  **Floating Point Group is intrenched in the cyrpto currency FinTech domain. More specifically, they impact the crypto currency asset trading platform aspects of the domain.**  
+  **Floating Point Group is entrenched in the cyrpto currency FinTech domain. More specifically, they impact the crypto currency asset trading platform aspects of the domain.**  
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?   
 
@@ -69,7 +69,7 @@
 
 * How is your company performing relative to competitors in the same domain?  
 
-  **FPG is not the first company with the idea to provide a unified smart order routing interface of crypto currency exchanges, and since they are not yet profitable, the ability to measure their performance relative to competitors such as SFOX and itBit is limited. In researching the founders path to starting their venture, they show promise in recognizing the need to differentiate. THis has led them to focus on refining their platform to be adaptable to interface quickly with new and changing crypto currency exchanges and assets pairs that are the lasted being traded.**  
+  **FPG is not the first company with the idea to provide a unified smart order routing interface of crypto currency exchanges, and since they are not yet profitable, the ability to measure their performance relative to competitors such as SFOX and itBit is limited. In researching the founders path to starting their venture, they show promise in recognizing the need to differentiate. This has led them to focus on refining their platform to be adaptable to interface quickly with new and changing crypto currency exchanges and assets pairs that are the latest being traded.**  
 
 ## Recommendations
 
