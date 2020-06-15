@@ -37,7 +37,8 @@
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)  
 
   **FPG uses Amazon cloud solutions for their infrastructure.  AWS ECS, as a scalable containerized compute platform, is used for ingestion from webapi data streams of historical and realtime market data. S3 is used for object-based storage of ingested data. Athena provides SQL based queryies against S3 stored data in a serverless, highly scalable manner. AWS Lamda automates the compute layer to run FPGs custom event driven application code, and the Data Exchange API manages communication between systems through provider/subscriber-based interaction. This underlying AWS technology is used to collect and distribute FPGs high resolution crypto data. The linked diagram below, from an FPG blow post, illustrates the data ingestion process and related AWS technologies.**  
-![](https://miro.medium.com/max/1400/0*w8-puTDSGRan86ZG.png) 
+
+  ![](https://miro.medium.com/max/1400/0*w8-puTDSGRan86ZG.png) 
 
 
 
